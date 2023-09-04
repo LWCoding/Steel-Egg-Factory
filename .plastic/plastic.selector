@@ -1,4 +1,0 @@
-repository "Untitled Chicken Game@Selenium_Inc_0@cloud"
-  path "/"
-    br "/main"
-    co "/main"
